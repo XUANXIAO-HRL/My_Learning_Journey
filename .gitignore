@@ -3,8 +3,8 @@ __pycache__/
 .venv/
 venv/
 env/
-.idea/
 .vscode/
 *.npy
 *.pth
 data/
+.idea/
